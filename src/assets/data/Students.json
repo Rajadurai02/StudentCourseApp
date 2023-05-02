@@ -1,0 +1,73 @@
+[
+    {
+        "ID": 1001,
+        "StudentName": "Raja",
+        "CourseName": ".NET",
+        "CourseDuration":6,
+        "TrainingMode":"Offline",
+        "LocationInfo":"Chennai"
+    },
+    {
+        "ID": 1002,
+        "StudentName": "Mohan",
+        "CourseName": "JAVA",
+        "CourseDuration":6,
+        "TrainingMode":"Offline",
+        "LocationInfo":"Chennai"
+    },
+    {
+        "ID": 1003,
+        "StudentName": "Vignesh",
+        "CourseName": "AZURE",
+        "CourseDuration":6,
+        "TrainingMode":"Offline",
+        "LocationInfo":"Chennai"
+    }, {
+        "ID": 1004,
+        "StudentName": "Raja",
+        "CourseName": "AWS",
+        "CourseDuration":3,
+        "TrainingMode":"Online",
+        "LocationInfo":"Online"
+    },
+    {
+        "ID": 1005,
+        "StudentName": "Mohan",
+        "CourseName": ".NET",
+        "CourseDuration":10,
+        "TrainingMode":"Offline",
+        "LocationInfo":"Chennai"
+    },
+    {
+        "ID": 1006,
+        "StudentName": "Vignesh",
+        "CourseName": "JAVA",
+        "CourseDuration":4,
+        "TrainingMode":"Offline",
+        "LocationInfo":"Madurai"
+    },
+    {
+        "ID": 1007,
+        "StudentName": "Raja",
+        "CourseName": ".NET",
+        "CourseDuration":6,
+        "TrainingMode":"Offline",
+        "LocationInfo":"Chennai"
+    },
+    {
+        "ID": 1008,
+        "StudentName": "Mohan",
+        "CourseName": "AWS",
+        "CourseDuration":3,
+        "TrainingMode":"Offline",
+        "LocationInfo":"Bangalore"
+    },
+    {
+        "ID": 1009,
+        "StudentName": "Vignesh",
+        "CourseName": ".NET",
+        "CourseDuration":10,
+        "TrainingMode":"Offline",
+        "LocationInfo":"Coimbatore"
+    }
+]

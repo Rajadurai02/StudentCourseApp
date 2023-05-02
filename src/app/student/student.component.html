@@ -1,0 +1,31 @@
+<h3>Student Course List</h3>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Student Name</th>
+            <th>Course</th>
+            <th>Course Duration</th>
+            <th>Training Mode</th>
+            <th>Location</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let dataItem of StudentList">
+
+            <td>{{dataItem.ID}}</td>
+
+            <td>{{dataItem.StudentName}}</td>
+
+            <td>{{dataItem.CourseName}}</td>
+
+            <td>{{dataItem.CourseDuration}}</td>
+
+            <td>{{dataItem.TrainingMode}}</td>
+            <td>{{dataItem.LocationInfo}}</td>
+
+        </tr>
+
+    </tbody>
+
+</table>
